@@ -1,3 +1,6 @@
-/*
-CSS HERE
-*/
+body{
+    background-image: url("../IMG/25101.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
